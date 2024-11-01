@@ -1,0 +1,685 @@
+.wpwc_design_header_h{padding-left:10px;font-size:28px;}
+.wpwc_step2_h{margin-bottom:10px;padding-left:0px;font-size:28px;}
+#domain_select_info{font-size:32px;}
+#wpwarning_wpexists{color:red;font-size:24px;}
+#wpwc_cpanel_form_warning{color:red;font-size:24px;}
+#wpwc_cpanel_form_ok{font-size:32px;}
+#wpwc_cpanel_domain_ok{font-size:32px;}
+#wpwc_connectwarning{color:red;font-size:24px;}
+#wpwc_form_valid_test{color:red;font-size:24px;}
+#wpwc_form_valid{color:red;font-size:24px;}
+#wpwc_cpanel_domain_exists{color:red;font-size:24px;}
+.wpwc_error_domainexist{padding-left:6px;}
+.uk-modal-dialog{width:80%!important;}
+.wpwcfloatright{background-colortext-align:center;width:100%!important;text-align:right;}
+.uk-card{background-color:#E6E6E6!important;padding:10px!important;}
+.designbox{float:left;width:30%!important;}
+.designselector{width:90%!important;margin-top:4px!important;}
+.designkachel{width:25%!important;}
+.designcheckbox{float:right;}
+.wpwcdesignimage{width:100%!important;}
+.wpwcdesigninput{width:90%!important;margin-bottom:4px!important;margin-top:4px!important;}
+.wpwcdesigntd{text-align:center!important;background-color:#f4f4f4!important;border:3px solid white;}
+.wpwcdesigntdselected{background-color:#c7edcd!important;text-align:center!important;border:3px solid white;}
+.wpwcdesignchooserheadline{font-size:18px!important;text-align:center!important;margin-bottom:14px;}
+.designdivider{font-size:24px!important;text-align:center;}
+.button200{width:200px!important;}
+.button100{width:100%!important;}
+
+
+.designsimortierenbutton {
+  -moz-box-shadow: 0px 10px 14px -7px #54a3f7;
+  	-webkit-box-shadow: 0px 10px 14px -7px #54a3f7;
+  	box-shadow: 0px 10px 14px -7px #54a3f7;
+  	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #007dc1), color-stop(1, #0061a7));
+  	background:-moz-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+  	background:-webkit-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+  	background:-o-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+  	background:-ms-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+  	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+  	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#007dc1', endColorstr='#0061a7',GradientType=0);
+  	background-color:#007dc1;
+  	-moz-border-radius:4px;
+  	-webkit-border-radius:4px;
+  	border-radius:4px;
+  	border:1px solid #124d77;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family:Arial;
+  	font-size:13px;
+  	font-weight:bold;
+  	padding:6px 12px;
+  	text-decoration:none;
+  	text-shadow:0px 1px 0px #154682;
+    margin-bottom:10px;
+}
+.designsimortierenbutton:hover {
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #0061a7), color-stop(1, #007dc1));
+  	background:-moz-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+  	background:-webkit-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+  	background:-o-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+  	background:-ms-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+  	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+  	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0061a7', endColorstr='#007dc1',GradientType=0);
+  	background-color:#0061a7;
+}
+
+  .modalclosebutton {
+    -moz-box-shadow: 0px 10px 14px -7px #cf866c;
+    	-webkit-box-shadow: 0px 10px 14px -7px #cf866c;
+    	box-shadow: 0px 10px 14px -7px #cf866c;
+    	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #d0451b), color-stop(1, #bc3315));
+    	background:-moz-linear-gradient(top, #d0451b 5%, #bc3315 100%);
+    	background:-webkit-linear-gradient(top, #d0451b 5%, #bc3315 100%);
+    	background:-o-linear-gradient(top, #d0451b 5%, #bc3315 100%);
+    	background:-ms-linear-gradient(top, #d0451b 5%, #bc3315 100%);
+    	background:linear-gradient(to bottom, #d0451b 5%, #bc3315 100%);
+    	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d0451b', endColorstr='#bc3315',GradientType=0);
+    	background-color:#d0451b;
+    	-moz-border-radius:4px;
+    	-webkit-border-radius:4px;
+    	border-radius:4px;
+    	border:1px solid #942911;
+    	display:inline-block;
+    	cursor:pointer;
+    	color:#ffffff;
+    	font-family:Arial;
+    	font-size:13px;
+    	font-weight:bold;
+    	padding:6px 12px;
+    	text-decoration:none;
+    	text-shadow:0px 1px 0px #854629;
+      margin-bottom:10px;
+  }
+  .modalclosebutton:hover {
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #bc3315), color-stop(1, #d0451b));
+  	background:-moz-linear-gradient(top, #bc3315 5%, #d0451b 100%);
+  	background:-webkit-linear-gradient(top, #bc3315 5%, #d0451b 100%);
+  	background:-o-linear-gradient(top, #bc3315 5%, #d0451b 100%);
+  	background:-ms-linear-gradient(top, #bc3315 5%, #d0451b 100%);
+  	background:linear-gradient(to bottom, #bc3315 5%, #d0451b 100%);
+  	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bc3315', endColorstr='#d0451b',GradientType=0);
+  	background-color:#bc3315;
+
+  }
+
+.wpwcdesignshadow{
+  -webkit-box-shadow: 6px 6px 5px 0px rgba(240,240,240,1);
+-moz-box-shadow: 6px 6px 5px 0px rgba(240,240,240,1);
+box-shadow: 6px 6px 5px 0px rgba(240,240,240,1);
+}
+.wpwcupgradebutton {
+  	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffc477), color-stop(1, #fb9e25));
+  	background:-moz-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+  	background:-webkit-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+  	background:-o-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+  	background:-ms-linear-gradient(top, #ffc477 5%, #fb9e25 100%);
+  	background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
+  	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc477', endColorstr='#fb9e25',GradientType=0);
+  	background-color:#ffc477;
+  	-moz-border-radius:4px;
+  	-webkit-border-radius:4px;
+  	border-radius:4px;
+  	border:1px solid #eeb44f;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family:Arial;
+  	font-size:13px;
+  	font-weight:bold;
+  	padding:6px 12px;
+  	text-decoration:none;
+}
+.wpwcupgradebutton:hover {
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #fb9e25), color-stop(1, #ffc477));
+  	background:-moz-linear-gradient(top, #fb9e25 5%, #ffc477 100%);
+  	background:-webkit-linear-gradient(top, #fb9e25 5%, #ffc477 100%);
+  	background:-o-linear-gradient(top, #fb9e25 5%, #ffc477 100%);
+  	background:-ms-linear-gradient(top, #fb9e25 5%, #ffc477 100%);
+  	background:linear-gradient(to bottom, #fb9e25 5%, #ffc477 100%);
+  	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb9e25', endColorstr='#ffc477',GradientType=0);
+  	background-color:#fb9e25;
+}
+
+.wpwcdesigndemobutton_full{width:80%!important;}
+
+.wpwcdesigndemobutton{
+  width:80%!important;
+	-moz-box-shadow: 0px 10px 14px -7px #3e7327;
+	-webkit-box-shadow: 0px 10px 14px -7px #3e7327;
+	box-shadow: 0px 10px 14px -7px #3e7327;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #77b55a), color-stop(1, #72b352));
+	background:-moz-linear-gradient(top, #77b55a 5%, #72b352 100%);
+	background:-webkit-linear-gradient(top, #77b55a 5%, #72b352 100%);
+	background:-o-linear-gradient(top, #77b55a 5%, #72b352 100%);
+	background:-ms-linear-gradient(top, #77b55a 5%, #72b352 100%);
+	background:linear-gradient(to bottom, #77b55a 5%, #72b352 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#77b55a', endColorstr='#72b352',GradientType=0);
+	background-color:#77b55a!important;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #4b8f29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+  text-align:center;
+	text-shadow:0px 1px 0px #5b8a3c;
+  margin-top:4px;
+  margin-bottom:4px;
+}
+.wpwcdesigndemobutton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #72b352), color-stop(1, #77b55a));
+	background:-moz-linear-gradient(top, #72b352 5%, #77b55a 100%);
+	background:-webkit-linear-gradient(top, #72b352 5%, #77b55a 100%);
+	background:-o-linear-gradient(top, #72b352 5%, #77b55a 100%);
+	background:-ms-linear-gradient(top, #72b352 5%, #77b55a 100%);
+	background:linear-gradient(to bottom, #72b352 5%, #77b55a 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#72b352', endColorstr='#77b55a',GradientType=0);
+	background-color:#72b352;
+}
+
+
+
+/*Frontend buttons*/
+.wpwcdemobutton{
+  -moz-box-shadow: 0px 10px 14px -7px #ffffff;
+	-webkit-box-shadow: 0px 10px 14px -7px #ffffff;
+	box-shadow: 0px 10px 14px -7px #ffffff;
+	background-color:#ededed;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#777777;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:3px 6px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+
+  width:80%;
+  margin-top:10px;
+  margin-bottom:5px;
+}
+.wpwcdemobutton:hover {
+  background-color:#dfdfdf;
+}
+
+.wpwcdesignchoosebutton{
+  -moz-box-shadow: 0px 10px 14px -7px #fce2c1;
+	-webkit-box-shadow: 0px 10px 14px -7px #fce2c1;
+	box-shadow: 0px 10px 14px -7px #fce2c1;
+	background-color:#ffc477;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:3px 6px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #cc9f52;
+
+  width:80%;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+.wpwcdesignchoosebutton:hover {
+  background-color:#fb9e25;
+  color:white;
+}
+
+
+.wpwcpostinfo{
+  padding:10px!important;
+  margin-bottom:6px!important;
+  font-size:18px!important;
+  -webkit-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  -moz-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  background-color:#e6e6e6;
+}
+
+.wpwcpostinfoselected{
+  padding:10px!important;
+  margin-bottom:6px!important;
+  font-size:18px!important;
+  -webkit-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  -moz-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  background-color:#c7edcd;
+}
+
+.wpwcpostalert{
+  padding:10px!important;
+  margin-bottom:6px!important;
+  font-size:14px!important;
+  -webkit-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  -moz-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  background-color:#cbd9ef;
+}
+
+.wpwcupgrade{
+  text-align:center;
+  padding:10px!important;
+  margin-bottom:6px!important;
+  font-size:14px!important;
+  -webkit-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  -moz-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  background-color:#e02323;
+  color:white;
+}
+
+.wpwcformsettings{
+  padding:10px!important;
+  margin-bottom:6px!important;
+  font-size:14px!important;
+  -webkit-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  -moz-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  background-color:#e6e6e6;
+}
+
+.wpwcpostalert_info{
+  padding:10px!important;
+  margin-bottom:6px!important;
+  font-size:14px!important;
+  -webkit-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  -moz-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  background-color:#f9cd8e;
+}
+
+.wpwcpostalert_info_klein{
+  padding:10px!important;
+  margin-bottom:6px!important;
+  font-size:12px!important;
+  -webkit-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  -moz-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  background-color:#f9cd8e;
+}
+
+
+.wpwcpostalert_error{
+  padding:10px!important;
+  margin-bottom:6px!important;
+  font-size:14px!important;
+  -webkit-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  -moz-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  background-color:#f55a42;
+  color:white;
+}
+
+.wpwcpostalert_error_dark{
+  padding:10px!important;
+  margin-bottom:6px!important;
+  font-size:14px!important;
+  -webkit-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  -moz-box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  box-shadow: 2px 10px 5px 0px rgba(240,240,240,0.7);
+  background-color:red;
+  color:white;
+}
+
+
+.wpwcpostinfohline{
+  font-size:18px!important;
+  font-weight: bold;
+}
+
+.wpwcpostinfodesc{
+  font-size:14px!important;
+}
+
+.wpwc_custompostfield{
+-webkit-box-shadow: 3px 3px 5px 0px rgba(235,235,235,1);
+-moz-box-shadow: 3px 3px 5px 0px rgba(235,235,235,1);
+box-shadow: 3px 3px 5px 0px rgba(235,235,235,1);
+border-radius: 4px 4px 4px 4px;
+-moz-border-radius: 4px 4px 4px 4px;
+-webkit-border-radius: 4px 4px 4px 4px;
+border: 0px solid #000000;
+}
+.responsive-video iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+.responsive-video {
+position: relative;
+padding-bottom: 56.25%; /* Default for 1600x900 videos 16:9 ratio*/
+padding-top: 0px;
+height: 0;
+overflow: hidden;
+}
+
+.filtr-item {
+    padding: 1rem;
+}
+.item-desc {
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    position: absolute;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 1rem;
+    z-index: 1;
+    bottom: 1rem;
+    left: 1rem;
+    right: 1rem;
+}
+
+/* Filter controls */
+.simplefilter li, .multifilter li, .sortandshuffle li {
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 1rem 2rem;
+}
+.simplefilter li {
+    background-color: #585858;
+}
+.simplefilter li.active {
+    background-color: #212121;
+}
+.multifilter li {
+    background-color: #4b9eff;
+}
+.multifilter li.active {
+    background-color: #2265b4;
+}
+
+/* Shuffle and sort controls */
+select {
+    padding: 1rem 1rem;
+    text-transform: uppercase;
+}
+.sortandshuffle .shuffle-btn {
+    background-color: #dec800;
+}
+.sortandshuffle .sort-btn {
+    background-color: #de0000;
+}
+.sortandshuffle .sort-btn.active {
+    background-color: #9d0000;
+}
+
+/* Search control */
+.search-row {
+    margin-left: 2.5rem;
+}
+.filtr-search {
+    padding: 0.5rem;
+    text-transform: uppercase;
+}
+
+.wpwc-serverready-hidden
+{
+  display:none;
+}
+.wpwc-mydomain-hidden
+{
+  display:none;
+}
+
+
+.wpwc-columns {
+    float: left;
+    width: 100%;
+    padding: 8px;
+}
+
+.wpwc-columns .wpwc-price {
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+
+.wpwc-columns .wpwc-price:hover {
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+.wpwc-columns .wpwc-price .header {
+    background-color: #111;
+    color: white;
+    font-size: 25px;
+}
+
+.wpwc-columns .wpwc-price li {
+    border-bottom: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+}
+
+.wpwc-columns .wpwc-price .grey {
+    background-color: #eee;
+    font-size: 20px;
+}
+
+.wpwc-columns .wpwc-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+    .wpwc-columns {
+        width: 100%;
+    }
+}
+
+
+.wpwc_design_image_img{ /* IMAGE STYLES */
+  cursor:pointer;
+  -webkit-box-shadow: 4px 3px 23px 2px rgba(0,0,0,0.22);
+  -moz-box-shadow: 4px 3px 23px 2px rgba(0,0,0,0.22);
+  box-shadow: 4px 3px 23px 2px rgba(0,0,0,0.22);
+  border: 1px solid #d6d6d6;
+  margin:5px;
+  padding:5px;
+}
+
+.wpwc_design_img >label > input{ /* HIDE RADIO */
+  visibility: hidden; /* Makes input not-clickable */
+  position: absolute; /* Remove input from document flow */
+}
+.wpwc_design_img > label > input + img{ /* IMAGE STYLES */
+  cursor:pointer;
+  -webkit-box-shadow: 4px 3px 23px 2px rgba(0,0,0,0.22)!important;
+  -moz-box-shadow: 4px 3px 23px 2px rgba(0,0,0,0.22)!important;
+  box-shadow: 4px 3px 23px 2px rgba(0,0,0,0.22)!important;
+  border: 1px solid #000!important;
+  margin:5px!important;
+  padding:5px!important;
+}
+.wpwc_design_img > label > input:checked + img{ /* (RADIO CHECKED) IMAGE STYLES */
+  border:1px solid #f00!important;
+  -webkit-box-shadow: 4px 3px 23px 2px rgba(0,0,0,0.22)!important;
+  -moz-box-shadow: 4px 3px 23px 2px rgba(0,0,0,0.22)!important;
+  box-shadow: 4px 3px 23px 2px rgba(0,0,0,0.22)!important;
+  margin:5px!important;
+  padding:5px!important;
+}
+/* Style the list */
+ul.wpwc_tab {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Float the list items side by side */
+ul.wpwc_tab li {float: left;}
+
+/* Style the links inside the list items */
+ul.wpwc_tab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+.wpwc_tabmargin {margin-bottom:30px;}
+/* Change background color of links on hover */
+ul.wpwc_tab li a:hover {background-color: #ddd;}
+
+/* Create an active/current tablink class */
+ul.wpwc_tab li a:focus, ul.wpwc_tab li a.active {background-color: #ccc;}
+
+/* Style the tab content */
+.wpwc_tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+.wpwc_header_img > label > input{ /* HIDE RADIO */
+visibility: hidden; /* Makes input not-clickable */
+position: absolute; /* Remove input from document flow */
+}
+.wpwc_header_img >label > input + img{ /* IMAGE STYLES */
+cursor:pointer;
+-webkit-box-shadow: 7px 7px 17px 0px rgba(0,0,0,0.43);
+-moz-box-shadow: 7px 7px 17px 0px rgba(0,0,0,0.43);
+box-shadow: 7px 7px 17px 0px rgba(0,0,0,0.43);
+border: 1px solid #000;
+margin:5px!important;
+paddin:5px!important;
+}
+.wpwc_header_img >label > input:checked + img{ /* (RADIO CHECKED) IMAGE STYLES */
+border:1px solid #f00;
+-webkit-box-shadow: 7px 7px 17px 0px rgba(0,0,0,0.43);
+-moz-box-shadow: 7px 7px 17px 0px rgba(0,0,0,0.43);
+box-shadow: 7px 7px 17px 0px rgba(0,0,0,0.43);
+margin:5px!important;
+paddin:5px!important;
+}
+/* Style the tab content */
+.wpwc_tabcontentheader {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.wpwc_designcol_1 {
+  float: left;
+  width: 100%;
+  padding: 15px;
+  text-align:center;
+}
+.wpwc_designcol_2 {
+  float: left;
+  width: 50%;
+  padding: 15px;
+  text-align:center;
+}
+.wpwc_designcol_3 {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+  text-align:center;
+}
+.wpwc_designcol_4 {
+  float: left;
+  width: 25%;
+  padding: 15px;
+  text-align:center;
+}
+.wpwc_designcol_5 {
+  float: left;
+  width: 20%;
+  padding: 15px;
+  text-align:center;
+}
+.wpwc_designcol_6 {
+  float: left;
+  width: 16.66%;
+  padding: 15px;
+  text-align:center;
+}
+
+.wpwcdesignarea{
+  float: left;
+  width: 50%;
+  padding: 15px;
+  text-align:center;
+}
+.wpwcformarea{
+  float: left;
+  width: 50%;
+  padding: 15px;
+  text-align:center;
+}
+
+
+/* Clear floats after image containers */
+.wpwc_row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/*Hide Bullets and other styles for this ul*/
+.wpwc_row ul li{
+     list-style-type:none;
+}
+.wpwc_row{margin-top:10px;}
+
+.wpwc_designarea_left{
+  width: 80%!important;
+}
+.wpwc_designarea_right{
+  width: 20%!important;
+}
+
+@media only screen and (max-width: 768px) {
+	.wpwc_designcol_1{width:100%;}
+  .wpwc_designcol_2{width:100%;}
+  .wpwc_designcol_3{width:100%;}
+  .wpwc_designcol_4{width:100%;}
+}
+@media only screen and (min-width: 769px) and  (max-width: 992px) {
+	.wpwc_designcol_1{width:50%;}
+  .wpwc_designcol_2{width:50%;}
+  .wpwc_designcol_3{width:50%;}
+  .wpwc_designcol_4{width:50%;}
+}
+@media only screen and (min-width: 993px) {
+	.wpwc_designcol_1{width:100%;}
+  .wpwc_designcol_2{width:50%;}
+  .wpwc_designcol_3{width:33%;}
+  .wpwc_designcol_4{width:25%;}
+}

@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Website Creator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 11:18+0000\n"
+"PO-Revision-Date: 2017-07-28 11:20+0000\n"
+"Last-Translator: msandner_ri56t3o1 <m.sandner@estate-soft.de>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: class.settings-api.php:37
+msgid "Domain availability"
+msgstr ""
+
+#: class.settings-api.php:106
+msgid "is already reserved"
+msgstr ""
+
+#: class.settings-api.php:107 class.settings-api.php:132
+msgid "is free"
+msgstr ""
+
+#: class.settings-api.php:132
+msgid ""
+"is reserved. Please confirm that you own this domain or enter a different "
+"domain."
+msgstr ""
+
+#: class.settings-api.php:168
+msgid "The field containing the domain name, without the domain name"
+msgstr ""
+
+#: class.settings-api.php:175
+msgid "The field that contains the domain extension"
+msgstr ""
+
+#: class.settings-api.php:182
+msgid "Checkbox to confirm that the taken domain is yours"
+msgstr ""
+
+#: class.settings-api.php:189
+msgid ""
+"List of domain extensions whose availability should be checked if the "
+"desired is not free"
+msgstr ""
+
+#: class.settings-api.php:196
+msgid ""
+"The field that contains one of your main domains if the customer wants to "
+"install a web page on a subdomain"
+msgstr ""
+
+#: class.settings-api.php:559
+msgid "Please enter your WPWC ID for this page."
+msgstr ""
+
+#: class.settings-api.php:560
+msgid "You get this ID in the Admin area of wp-website-creator.com"
+msgstr ""
+
+#: class.settings-api.php:561
+msgid "Please check out our tutorial videos."
+msgstr ""
+
+#: wp-website-creator.php:47
+msgid "WP website creator settings"
+msgstr ""
+
+#: wp-website-creator.php:63
+msgid "Your client-id"
+msgstr ""
+
+#: wp-website-creator.php:64
+msgid "Please sign up at wp-website-creator.com to get an ID"
+msgstr ""
+
+#: wp-website-creator.php:70
+msgid "Your client-secret-key"
+msgstr ""
+
+#: wp-website-creator.php:71
+msgid ""
+"Please note that we do not display the client-secret-key. But he was saved"
+msgstr ""
+
+#: wp-website-creator.php:77
+msgid "Your Username at <br> wp-website-creator.com"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Website Creator"
+msgstr ""
+
+#. Description of the plugin
+msgid "WP Website creator settings"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wp-website-creator.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Manfred Sandner"
+msgstr ""

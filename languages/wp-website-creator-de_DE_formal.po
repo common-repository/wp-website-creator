@@ -1,0 +1,1021 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Website Creator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-10 08:50+0000\n"
+"PO-Revision-Date: 2019-09-10 09:16+0000\n"
+"Last-Translator: Manfred <support@cronema.com>\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: class.settings-api.php:343
+msgid ""
+"<b>!!NOTE!!</b><br>These settings only come to bear if you use our <br><b>"
+"Beaver Builder pro ready-made-websites</b> templates for website creation."
+"<br>You need a <a target='_blank' href='https://www.wpbeaverbuilder.com/?"
+"fla=1133'>Beaver Builder Agency</a> license to whitelabel all these "
+"settings<br>If you use your own templates you have to enter the settings "
+"already in the templates."
+msgstr ""
+
+#: class.settings-api.php:346
+msgid ""
+"<b>!!NOTE!!</b><br>These settings only come to bear if you use <br><b>our "
+"templates made with UABB pro</b> for website creation.<br>You need a <a "
+"target='_blank' href='https://www.ultimatebeaver.com/?bsf=157'>Ultimate "
+"Addons for Beaver Builder pro</a> license to whitelabel all these "
+"settings<br>If you use your own templates you have to enter the settings "
+"already in the templates."
+msgstr ""
+
+#: class.settings-api.php:349
+msgid ""
+"<b>!!NOTE!!</b><br>These settings only come to bear if you use <br><b>our "
+"templates made with UAE pro</b> for website creation.<br>You need a <a "
+"target='_blank' href='https://uaelementor.com/?bsf=157'>Ultimate Addons for "
+"Elementor pro</a> license to whitelabel all these settings<br>If you use "
+"your own templates you have to enter the settings already in the templates."
+msgstr ""
+
+#: class.settings-api.php:352
+msgid ""
+"<b>!!NOTE!!</b><br>Each of our ready-made websites can be provided with a "
+"video tutorial button and a buy button. Here you can decide if you want it "
+"or not."
+msgstr ""
+
+#: class.settings-api.php:364
+msgid "You are theme manufacturer?"
+msgstr ""
+
+#: class.settings-api.php:364
+msgid "COMING SOON!"
+msgstr ""
+
+#: class.settings-api.php:365
+msgid ""
+"As a template manufacturer you have the possibility to integrate your "
+"templates into our Plugin.\n"
+"                                 <br>Imagine every installed wp-website-"
+"creator plugin would contain your templates.\n"
+"                                 <br>This is an enormous distribution turbo."
+"\n"
+"                                 <br>All you have to do is provide pre-built "
+"web pages.\n"
+"                                 <br>These websites must be created with the "
+"free version of your theme.\n"
+"                                 <br>These websites can then be "
+"automatically installed on any WHM/cPanel or plesk server worldwide using "
+"our plugin."
+msgstr ""
+
+#: class.settings-api.php:381
+msgid "What is WP Website Creator"
+msgstr ""
+
+#: class.settings-api.php:382
+msgid ""
+"With WP Website Creator, you can provide your website visitors a WordPress "
+"installation by using a simple form.<br>\n"
+"                           Your visitor send the form and a WordPress "
+"website will be installed immediately.<br>\n"
+"                           Your visitor (new customer) get's his website "
+"access 10 minutes after sending the form."
+msgstr ""
+"Mit WP Website Creator können Sie Ihren Website-Besuchern eine WordPress-"
+"Installation mit einem einfachen Formular anbieten.\n"
+"                           Ihr Besucher sendet das Formular und eine "
+"WordPress-Website wird sofort installiert.\n"
+"                           Ihr Besucher (Neukunde) erhält 10 Minuten nach "
+"Absenden des Formulars seinen Website-Zugang."
+
+#: class.settings-api.php:385
+msgid "How to setup."
+msgstr ""
+
+#: class.settings-api.php:386
+msgid "Install one of these form plugins"
+msgstr ""
+
+#: class.settings-api.php:393
+msgid "Create a form with your installed form plugin"
+msgstr ""
+
+#: class.settings-api.php:394
+msgid ""
+"Go to the WPWCreator section and create a relation mapping to send your form "
+"data to wp-website-creator for website installation."
+msgstr ""
+
+#: class.settings-api.php:396
+msgid "Technical Description"
+msgstr ""
+
+#: class.settings-api.php:397
+msgid ""
+"The content of your form will be sent via the API interface to wp-website-"
+"creator.com. Our system sends the selected design to the registered server "
+"(WHM, cPanel or plesk) and the installation process starts. Then the data of "
+"the newly created website will be sent back to your website via curl. A "
+"custom endpoint (WPWCreator->Websites) will be set up on your website. As "
+"soon as a new website has been installed and entered in your backend, an "
+"email with the access data will be sent to the new customer."
+msgstr ""
+
+#: class.settings-api.php:417 class.settings-api.php:459
+#: class.settings-api.php:474 class.settings-api.php:489
+#: class.settings-api.php:503
+msgid "Videotutorial"
+msgstr ""
+
+#: class.settings-api.php:432
+msgid "Offer our ready-made websites!"
+msgstr ""
+
+#: class.settings-api.php:433
+msgid ""
+"Decide which ready-made websites you want to offer your customers. If you "
+"choose templates that contain paid themes and plugins you should also enter "
+"the plugin data so that our system can replace the data during the "
+"installation."
+msgstr ""
+"Entscheiden Sie, welche vorgefertigten Websites Sie Ihren Kunden anbieten "
+"möchten. Wenn Sie Vorlagen wählen, die kostenpflichtige Themen und Plugins "
+"enthalten, sollten Sie auch die Plugin-Daten eingeben, damit unser System "
+"die Daten während der Installation ersetzen kann."
+
+#: class.settings-api.php:443
+msgid "Offer your own ready-made websites!"
+msgstr ""
+
+#: class.settings-api.php:444
+msgid "Watch this tutorial to see how it works"
+msgstr ""
+
+#: wp-website-creator.php:166
+msgid "WP website creator settings"
+msgstr "WP website creator Einstellungen"
+
+#: wp-website-creator.php:175
+msgid "Customer support settings"
+msgstr ""
+
+#: wp-website-creator.php:184
+msgid "Ultimate Elementor Add Ons settings"
+msgstr ""
+
+#: wp-website-creator.php:193
+msgid "Beaver Builder settings"
+msgstr ""
+
+#: wp-website-creator.php:202
+msgid "Ultimate Beaver Builder Add Ons settings"
+msgstr ""
+
+#: wp-website-creator.php:211
+msgid "Offer ready-made websites"
+msgstr ""
+
+#: wp-website-creator.php:217
+msgid "Theme manufacturer"
+msgstr ""
+
+#: wp-website-creator.php:223
+msgid "Tutorials"
+msgstr ""
+
+#: wp-website-creator.php:245
+msgid "Your client-id"
+msgstr "Deine client-id"
+
+#: wp-website-creator.php:246
+msgid ""
+"Please sign up at <a target=\"_blank\" href=\"https://wp-website-creator."
+"com\">wp-website-creator.com</a> to get an ID"
+msgstr ""
+
+#: wp-website-creator.php:252
+msgid "Your client-secret-key"
+msgstr "Deine client-secret-key"
+
+#: wp-website-creator.php:253
+msgid ""
+"Please sign up at <a target=\"_blank\" href=\"https://wp-website-creator."
+"com\">wp-website-creator.com</a> to get an key"
+msgstr ""
+
+#: wp-website-creator.php:259
+msgid "Your username at <br> wp-website-creator.com"
+msgstr "Dein Benutzername unter <br> wp-website-creator.com"
+
+#: wp-website-creator.php:260
+msgid ""
+"Please sign up at <a target=\"_blank\" href=\"https://wp-website-creator."
+"com\">wp-website-creator.com</a> to get an username"
+msgstr ""
+
+#: wp-website-creator.php:266
+msgid "Master WordPress admin email"
+msgstr ""
+
+#: wp-website-creator.php:267
+msgid ""
+"An admin account will be created for you on every page that is installed "
+"trough your forms. So you can edit the website and support your customers. "
+"Which email address should be used for these admin accounts?"
+msgstr ""
+
+#: wp-website-creator.php:274
+msgid "Master website language"
+msgstr ""
+
+#: wp-website-creator.php:276
+msgid ""
+"You can specify in each form in which language the web pages that are "
+"installed via this form should be installed. If you don't do this you should "
+"enter a main language here"
+msgstr ""
+"Sie können in jedem Formular angeben, in welcher Sprache die Webseiten, die "
+"über dieses Formular installiert werden, installiert werden sollen. Wenn Sie "
+"dies nicht tun, sollten Sie hier eine Hauptsprache eingeben."
+
+#: wp-website-creator.php:283
+msgid "Your \"Powered by\" link"
+msgstr ""
+
+#: wp-website-creator.php:284
+msgid ""
+"Add a powered by link to the footer on each page. Note! In the free version "
+"a powered by link from wp-website-creator will be added."
+msgstr ""
+
+#: wp-website-creator.php:291
+msgid "Your google map API"
+msgstr ""
+
+#: wp-website-creator.php:292
+msgid ""
+"In order for the maps of your installed websites to work immediately after "
+"installation, please insert your Google API key here. You can get an API key "
+"for a complete server or a wildecard key for a domain from Google."
+msgstr ""
+"Damit die Karten Ihrer installierten Websites sofort nach der Installation "
+"funktionieren, geben Sie bitte hier Ihren Google API-Schlüssel ein. Sie "
+"können einen API-Schlüssel für einen kompletten Server oder einen Wildecard-"
+"Schlüssel für eine Domain von Google beziehen."
+
+#: wp-website-creator.php:298
+msgid "Your google capcha API site key"
+msgstr ""
+
+#: wp-website-creator.php:299
+msgid ""
+"To make forms containing a capcha work immediately after installation, "
+"please insert your Google capcha site key and your secret key here. You can "
+"get the key's for a complete server from Google or a wildecard key for a "
+"domain."
+msgstr ""
+"Damit Formulare mit einem Capcha sofort nach der Installation funktionieren, "
+"geben Sie bitte hier Ihren Google Capcha-Siteschlüssel und Ihren geheimen "
+"Schlüssel ein. Sie können die Schlüssel für einen kompletten Server bei "
+"Google oder einen Wildecard-Schlüssel für eine Domain erhalten."
+
+#: wp-website-creator.php:305
+msgid "Your google capcha API secret key"
+msgstr ""
+
+#: wp-website-creator.php:306
+msgid ""
+"To make forms containing a capcha work immediately after installation, "
+"please insert your Google capcha site key and your secret key here. You can "
+"get the key' for a complete server from Google or a wildecard key for a "
+"domain."
+msgstr ""
+"Damit Formulare mit einem Capcha sofort nach der Installation funktionieren, "
+"geben Sie bitte hier Ihren Google Capcha-Siteschlüssel und Ihren geheimen "
+"Schlüssel ein. Sie können den Schlüssel' für einen kompletten Server bei "
+"Google oder einen Wildecard-Schlüssel für eine Domain erhalten."
+
+#: wp-website-creator.php:321
+msgid "Your Beaver Builder license"
+msgstr ""
+
+#: wp-website-creator.php:322
+msgid ""
+"This license will be added to all beaver builder templates after they have "
+"been installed."
+msgstr ""
+
+#: wp-website-creator.php:328
+msgid "Editor name in your whitelable installation"
+msgstr ""
+
+#: wp-website-creator.php:329
+msgid "Please enter a editor name"
+msgstr ""
+
+#: wp-website-creator.php:335 wp-website-creator.php:366
+msgid "URL to your editor icon"
+msgstr ""
+
+#: wp-website-creator.php:336 wp-website-creator.php:367
+msgid "Enter the URL to your brand or icon"
+msgstr ""
+
+#: wp-website-creator.php:341 wp-website-creator.php:372
+msgid "Beaver builder theme description"
+msgstr ""
+
+#: wp-website-creator.php:342 wp-website-creator.php:373
+msgid "Enter a description for your whitelabel theme"
+msgstr ""
+
+#: wp-website-creator.php:347 wp-website-creator.php:378
+msgid "The company name shown on theme site"
+msgstr ""
+
+#: wp-website-creator.php:348 wp-website-creator.php:379
+msgid "Enter your company name"
+msgstr ""
+
+#: wp-website-creator.php:353 wp-website-creator.php:384
+msgid "URL to your company"
+msgstr ""
+
+#: wp-website-creator.php:354 wp-website-creator.php:385
+msgid "Enter the company URL that is shown on theme site"
+msgstr ""
+
+#: wp-website-creator.php:359
+msgid "URL to a screenshot of your theme"
+msgstr ""
+
+#: wp-website-creator.php:360
+msgid ""
+"This image will be shown on the new installed website Appaerance->Theme page"
+msgstr ""
+
+#: wp-website-creator.php:390
+msgid "Beaver Builder help button"
+msgstr ""
+
+#: wp-website-creator.php:392
+msgid "Should the Beaver Builder help button be displayed?"
+msgstr ""
+
+#: wp-website-creator.php:397
+msgid "Beaver Builder Help Tour"
+msgstr ""
+
+#: wp-website-creator.php:399
+msgid "Should the Beaver Builder help tour be available?"
+msgstr ""
+
+#: wp-website-creator.php:405
+msgid "Beaver Builder Video tutorial "
+msgstr ""
+
+#: wp-website-creator.php:406
+msgid ""
+"Want to view a Beaver Builder video tutorial? Note! You can also specify "
+"your own URL."
+msgstr ""
+"Möchten Sie ein Beaver Builder-Video-Tutorial ansehen? Hinweis! Sie können "
+"auch Ihre eigene URL angeben."
+
+#: wp-website-creator.php:411
+msgid "The URL to your Beaver Builder tutorial"
+msgstr ""
+
+#: wp-website-creator.php:412
+msgid ""
+"If you do not enter a video URL but want to display the video, the standard "
+"Beaver Builder overview tutorial will be displayed."
+msgstr ""
+
+#: wp-website-creator.php:418
+msgid "Knowledgebase"
+msgstr ""
+
+#: wp-website-creator.php:419
+msgid "Show a knowledgebase link inside Beaver Builder editor?"
+msgstr ""
+
+#: wp-website-creator.php:424
+msgid "The knowledgebase URL"
+msgstr ""
+
+#: wp-website-creator.php:425
+msgid ""
+"Enter a URL to the knowledgebase. If you want to display the knowledgebase "
+"but don't enter a link here, the Beaver Builder knowledgebase URL will be "
+"used."
+msgstr ""
+
+#: wp-website-creator.php:432
+msgid "Support link"
+msgstr ""
+
+#: wp-website-creator.php:433
+msgid "Show a support link inside Beaver Builder editor?"
+msgstr ""
+
+#: wp-website-creator.php:439
+msgid "The support URL"
+msgstr ""
+
+#: wp-website-creator.php:440
+msgid "Enter a URL to the support page."
+msgstr ""
+
+#: wp-website-creator.php:447
+msgid "Your UAE license"
+msgstr ""
+
+#: wp-website-creator.php:448
+msgid ""
+"This license will be added to all elementor templates after they have been "
+"installed."
+msgstr ""
+
+#: wp-website-creator.php:453
+msgid "Your UAE name"
+msgstr ""
+
+#: wp-website-creator.php:454
+msgid ""
+"The name for Ultimate Add-Ons for Elementor in your Whitelabele version."
+msgstr ""
+
+#: wp-website-creator.php:459
+msgid "Your UAE short name"
+msgstr "Ihr UAE-Kurzname"
+
+#: wp-website-creator.php:460
+msgid "The plugin short name shown in some places on WP backend"
+msgstr ""
+
+#: wp-website-creator.php:465
+msgid "Your UAE description"
+msgstr ""
+
+#: wp-website-creator.php:466
+msgid "The UAE plugin description"
+msgstr ""
+
+#: wp-website-creator.php:471 wp-website-creator.php:542
+msgid "Author name"
+msgstr ""
+
+#: wp-website-creator.php:472
+msgid "Enter the author name shown as UAE author"
+msgstr ""
+
+#: wp-website-creator.php:477 wp-website-creator.php:548
+msgid "Author URL"
+msgstr ""
+
+#: wp-website-creator.php:478
+msgid "The url to the UAE author page"
+msgstr ""
+
+#: wp-website-creator.php:484
+msgid "Replace logo"
+msgstr ""
+
+#: wp-website-creator.php:485
+msgid "Replace the UAE logo with the plugin name"
+msgstr ""
+
+#: wp-website-creator.php:491
+msgid "Display the knowledgebase box"
+msgstr ""
+
+#: wp-website-creator.php:492
+msgid "Should the knowledge base be displayed?"
+msgstr ""
+
+#: wp-website-creator.php:497 wp-website-creator.php:567
+msgid "Knowledgebase URL"
+msgstr ""
+
+#: wp-website-creator.php:498
+msgid ""
+"The knowledgebase url. If you want to display the knowledgebase but don't "
+"enter a link here, the UAE knowledgebase URL will be used."
+msgstr ""
+
+#: wp-website-creator.php:504
+msgid "Display the support box"
+msgstr ""
+
+#: wp-website-creator.php:505
+msgid "Should the support box be displayed?"
+msgstr ""
+
+#: wp-website-creator.php:510 wp-website-creator.php:580
+msgid "Support URL"
+msgstr ""
+
+#: wp-website-creator.php:511
+msgid ""
+"The support url. If you want to display the support url but don't enter a "
+"link here, the UAE support URL will be used."
+msgstr ""
+
+#: wp-website-creator.php:518
+msgid "Your UABB license"
+msgstr ""
+
+#: wp-website-creator.php:519
+msgid "Enter your ultimate add ons license"
+msgstr ""
+
+#: wp-website-creator.php:524
+msgid "Your UABB plugin name"
+msgstr ""
+
+#: wp-website-creator.php:525
+msgid "Enter the plugin name shown in some places on WP backend"
+msgstr ""
+
+#: wp-website-creator.php:530
+msgid "Your UABB short name"
+msgstr ""
+
+#: wp-website-creator.php:531
+msgid "Enter your UABB short name"
+msgstr ""
+
+#: wp-website-creator.php:536
+msgid "Your UABB description"
+msgstr ""
+
+#: wp-website-creator.php:537
+msgid "Enter your UABB description"
+msgstr ""
+
+#: wp-website-creator.php:543
+msgid "Enter the author name shown as UABB author"
+msgstr ""
+
+#: wp-website-creator.php:549
+msgid "The url to the UABB author page"
+msgstr ""
+
+#: wp-website-creator.php:554
+msgid "Plugin Icon URL"
+msgstr ""
+
+#: wp-website-creator.php:555
+msgid "Enter the URL to your icon/logo to replace the UABB icon"
+msgstr ""
+
+#: wp-website-creator.php:561
+msgid "Display the knowledgebase tab"
+msgstr ""
+
+#: wp-website-creator.php:562
+msgid "Enable this option to display Knowledge Base link in Help tab."
+msgstr ""
+
+#: wp-website-creator.php:568
+msgid ""
+"The knowledgebase url. If you want to display the knowledgebase but don't "
+"enter a link here, the UABB knowledgebase URL will be used."
+msgstr ""
+
+#: wp-website-creator.php:574
+msgid "Display the support tab"
+msgstr ""
+
+#: wp-website-creator.php:575
+msgid "Enable this option to display support link in Help tab."
+msgstr ""
+
+#: wp-website-creator.php:581
+msgid ""
+"The support url. If you want to display the support url but don't enter a "
+"link here, the UABB support URL will be used."
+msgstr ""
+
+#: wp-website-creator.php:590
+msgid "Show video tutorials button"
+msgstr ""
+
+#: wp-website-creator.php:591
+msgid "Show a video tutorials button in the top bar of every installed website"
+msgstr ""
+
+#: wp-website-creator.php:596
+msgid "Video button text"
+msgstr ""
+
+#: wp-website-creator.php:597
+msgid "A text string for the video tutorials button"
+msgstr ""
+
+#: wp-website-creator.php:602
+msgid "Video tutorials URL"
+msgstr ""
+
+#: wp-website-creator.php:603
+msgid "The URL to your video tutorials page"
+msgstr ""
+
+#: wp-website-creator.php:609
+msgid "Show sale button"
+msgstr ""
+
+#: wp-website-creator.php:610
+msgid "Show a sale button in the top bar of every installed website"
+msgstr ""
+
+#: wp-website-creator.php:615
+msgid "Sale button text"
+msgstr ""
+
+#: wp-website-creator.php:616
+msgid "A text string for the sale button"
+msgstr ""
+
+#: wp-website-creator.php:621
+msgid "Sale page URL"
+msgstr ""
+
+#: wp-website-creator.php:622
+msgid "The URL to your sale page"
+msgstr ""
+
+#: wp-website-creator.php:629
+msgid "My own ready-made websites"
+msgstr ""
+
+#: wp-website-creator.php:630
+msgid ""
+"You can promote your own ready-made websites. You have to create websites "
+"and upload them in your backend to wp-website-creator.<br>Watch the tutorial "
+"for more information"
+msgstr ""
+"Sie können Ihre eigenen vorgefertigten Websites bewerben. Sie müssen "
+"Websites erstellen und in Ihrem Backend auf wp-website creator hochladen. "
+"<br>Wählen Sie das Tutorial für weitere Informationen."
+
+#: wp-website-creator.php:636
+msgid "Astra free theme & UABB free"
+msgstr ""
+
+#: wp-website-creator.php:637
+msgid ""
+"Ready-made websites created with Astra free theme, Beaver Builder Editor "
+"Standard (free) version and Ultimate Add Ons for Beaver Builder Free Plugin."
+msgstr ""
+
+#: wp-website-creator.php:643
+msgid "Astra free & UABB pro"
+msgstr ""
+
+#: wp-website-creator.php:644
+msgid ""
+"Ready-made websites created with Astra Free theme, Beaver Builder Editor "
+"Standard (free) version and Ultimate Add Ons for Beaver Builder Pro Plugin."
+msgstr ""
+
+#: wp-website-creator.php:650
+msgid "Astra pro & UABB pro"
+msgstr ""
+
+#: wp-website-creator.php:651
+msgid ""
+"Ready-made websites created with Astra Pro theme, Beaver Builder Editor "
+"Standard (free) version and Ultimate Add Ons for Beaver Builder Pro Plugin."
+msgstr ""
+
+#: wp-website-creator.php:657
+msgid "Beaver Builder pro"
+msgstr ""
+
+#: wp-website-creator.php:658
+msgid ""
+"Ready-made websites created with the Beaver Builder Pro or Agency version "
+"and Ultimate Add Ons for Beaver Builder Pro Plugin."
+msgstr ""
+
+#: wp-website-creator.php:664
+msgid "Astra free & UAE free"
+msgstr ""
+
+#: wp-website-creator.php:665
+msgid ""
+"Ready-made websites created with Astra free theme, Elementor free version "
+"and Ultimate Add Ons for Elementor Free Plugin."
+msgstr ""
+
+#: wp-website-creator.php:671
+msgid "Astra free & UAE pro"
+msgstr ""
+
+#: wp-website-creator.php:672
+msgid ""
+"Ready-made websites created with Astra free theme, Elementor free version "
+"and Ultimate Add Ons for Elementor Pro Plugin."
+msgstr ""
+
+#: wp-website-creator.php:678
+msgid "Astra pro & UAE pro"
+msgstr ""
+
+#: wp-website-creator.php:679
+msgid ""
+"Ready-made websites created with Astra Pro theme, Elementor free version and "
+"Ultimate Add Ons for Elementor Pro Plugin."
+msgstr ""
+
+#: includes/wpwc_other_functions.php:22
+msgid ""
+"We have found the following domains in your account.<br>Please select the "
+"domain under which the website should be installed."
+msgstr ""
+
+#: includes/wpwc_other_functions.php:24 includes/wpwc_other_functions.php:592
+msgid ""
+"There is a WordPress installed in this folder.<br>Please remove the "
+"WordPress installation and restart the installation process."
+msgstr ""
+"Auf dieser Domain (In diesem Domain Ordner) ist bereits eine WordPress Seite "
+"installiert.<br>Bitte entfernen Sie zuerst die alte installation und "
+"versuchen Sie es erneut."
+
+#: includes/wpwc_other_functions.php:25 includes/wpwc_other_functions.php:583
+#: includes/wpwc_other_functions.php:593
+msgid "Can\\'t connect"
+msgstr "Verbindung fehlgeschlagen"
+
+#: includes/wpwc_other_functions.php:30 includes/wpwc_other_functions.php:598
+msgid "Ok install on this domain"
+msgstr "OK! Auf dieser Domain installieren."
+
+#: includes/wpwc_other_functions.php:32 includes/wpwc_other_functions.php:601
+msgid "Everything looks great. You can install now."
+msgstr "Alles sieht toll aus. Sie können jetzt installieren."
+
+#: includes/wpwc_other_functions.php:287
+msgid "cPanel Login URL"
+msgstr "cPanel Login URL"
+
+#: includes/wpwc_other_functions.php:291 includes/wpwc_other_functions.php:340
+msgid "cPanel username"
+msgstr "cPanel Benutzername"
+
+#: includes/wpwc_other_functions.php:295 includes/wpwc_other_functions.php:351
+msgid "cPanel password"
+msgstr "cPanel Passwort"
+
+#: includes/wpwc_other_functions.php:300 includes/wpwc_other_functions.php:362
+#: includes/wpwc_other_functions.php:420 includes/wpwc_other_functions.php:532
+#: includes/wpwc_other_functions.php:585
+msgid "Connect to your cPanel"
+msgstr "Mit cPanel verbinden"
+
+#: includes/wpwc_other_functions.php:329 includes/wpwc_other_functions.php:398
+#: includes/wpwc_other_functions.php:453 includes/wpwc_other_functions.php:502
+#: includes/wpwc_other_functions.php:511 includes/wpwc_other_functions.php:520
+msgid "cPanel login URL"
+msgstr "cPanel Login URL"
+
+#: includes/wpwc_other_functions.php:405 includes/wpwc_other_functions.php:460
+msgid "cPanel login username"
+msgstr "cPanel Benutzername"
+
+#: includes/wpwc_other_functions.php:412 includes/wpwc_other_functions.php:467
+#: includes/wpwc_other_functions.php:580
+msgid "cPanel login password"
+msgstr "cPanel Passwort"
+
+#: includes/wpwc_other_functions.php:473
+msgid "Submit"
+msgstr "Senden"
+
+#: includes/wpwc_other_functions.php:577
+msgid "cPanel login username (required)"
+msgstr "cPanel Benutzername (Pflichtfeld)"
+
+#: includes/wpwc_other_functions.php:590
+msgid ""
+"We have found the following domains in your account. Please select the "
+"domain under which the website should be installed."
+msgstr ""
+
+#: includes/wpwc_other_functions.php:607
+msgid ""
+"You need a Big Plan license to install websites directly on customers cPanel"
+msgstr ""
+
+#: includes/wpwc_other_functions.php:615
+msgid "Check subdomain availability"
+msgstr "Verfügbarkeit prüfen"
+
+#: includes/wpwc_other_functions.php:666
+msgid "Check domain availability"
+msgstr "Verfügbarkeit prüfen"
+
+#: includes/wpwc_other_functions.php:949
+msgid "back to themes"
+msgstr ""
+
+#: includes/wpwc_other_functions.php:995
+msgid "This subdomain already exists. Please tip in a other prefix"
+msgstr ""
+"Diese Subdomain existiert bereits. Bitte geben Sie ein anderes Prefix ein."
+
+#: includes/wpwc_other_functions.php:996
+msgid "Please enter a valid domain prefix"
+msgstr "Bitte geben Sie eine gültiges Prefix ein"
+
+#: includes/wpwc_other_functions.php:997
+msgid ""
+"Please do not use the word \"test\". This word causes installation problems "
+"on many servers."
+msgstr ""
+"Bitte verwenden Sie nicht das Wort \"test\". Das kann auf einigen Servern zu "
+"Problemen führen."
+
+#: includes/wpwc_other_functions.php:998
+msgid "Great! This subdomain is free. You can install now."
+msgstr "Sehr gut, diese Domain ist frei! Sie können nun installieren."
+
+#: includes/wpwc_other_functions.php:999
+msgid "Can\\'t connect to the server. Please contact the site owner."
+msgstr ""
+"Verbindung zum Server nicht möglich, bitte informieren Sie den Seiten "
+"Inhaber."
+
+#: includes/wpwc_other_functions.php:1010
+msgid ""
+"This Domain is taken.<br>Please enter another domain or confirm that you are "
+"the owner of this domain"
+msgstr ""
+"Diese Domain ist vergeben.<br>Bitte geben Sie eine andere Domain ein oder "
+"bestätigen Sie dass es Ihre Domain ist."
+
+#: includes/wpwc_other_functions.php:1013
+msgid "This is my domain"
+msgstr "Das ist meine Domain"
+
+#: includes/wpwc_other_functions.php:1016
+msgid "Please enter a valid domain name"
+msgstr "Bitte geben Sie einen gültigen Domain namen ein."
+
+#: includes/wpwc_other_functions.php:1017
+msgid "Great! This Domain is free. You can install now."
+msgstr "Großartig! Diese Domain ist frei. Sie können jetzt installieren."
+
+#: includes/wpwc_other_functions.php:1030
+#: includes/wpwc_other_functions.php:1046
+#: includes/wpwc_other_functions.php:1058
+#: includes/wpwc_other_functions.php:1070
+#: includes/wpwc_other_functions.php:1080
+#: includes/wpwc_other_functions.php:1094
+#: includes/wpwc_other_functions.php:1108
+#: includes/wpwc_other_functions.php:1126
+#: includes/wpwc_other_functions.php:1141
+#: includes/wpwc_other_functions.php:1155
+#: includes/wpwc_other_functions.php:1167
+#: includes/wpwc_other_functions.php:1183
+msgid "Tip in your prefix"
+msgstr "Geben Sie bitte ein Prefix ein"
+
+#: includes/wpwc_other_functions.php:1062
+#: includes/wpwc_other_functions.php:1145
+msgid "Maindomain"
+msgstr "Hauptdomain"
+
+#: includes/wpwc_other_functions.php:1300
+msgid ""
+"To create websites you need to install one of the following free plugins"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:49
+msgid "options-general.php?page=wp_website_creator_settings\">Options page</a>"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:64 includes/wpwc_metaboxes.php:139
+msgid "Selected form:"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:78
+msgid "Select a email template for the credentials email."
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:80 includes/wpwc_metaboxes.php:157
+msgid "Please select a form"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:87
+msgid "Select the language you want to install this website in."
+msgstr "Bitte wählen Sie eine Sprache."
+
+#: includes/wpwc_metaboxes.php:89
+msgid "Please select a language"
+msgstr "Bitte wählen Sie eine Sprache"
+
+#: includes/wpwc_metaboxes.php:114
+msgid "What user role should a customer who has created a website receive?"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:116
+msgid "Please select a role"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:149
+msgid "Video tutorial"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:155
+msgid "Select the form from which a website should be created"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:170
+msgid "1. Please tip in a title and save this mapping"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:175
+msgid "You need one of these form plugins"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:333
+msgid ""
+"3. Please create a email field in your form and mapp it with the required <b>"
+"EMAIL</b> option."
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:334
+msgid ""
+"<b>!!Please note!!</b><br>4. Please create a design field (simple text field)"
+" in your form and mapp it with the required <b>DESIGN</b> option."
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:335
+msgid ""
+"<b>!!Please note!!</b><br>5. Please create a prefix field (simple text field)"
+" in your form and mapp it with the required <b>PREFIX</b> option."
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:336
+msgid "Please select the language in which the website should be installed."
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:910
+msgid "Themes imported, please save this post"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:910
+msgid "Update"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:916
+msgid ""
+"4. Please create a design field (simple text field) in your form and mapp it "
+"with the required <b>DESIGN</b> option"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:919
+msgid ""
+"5. Please create a prefix field (simple text field) in your form and mapp it "
+"with the required <b>PREFIX</b> option"
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:923
+msgid ""
+"Please connect the form fields of the selected form with the data necessary "
+"for the creation of the website."
+msgstr ""
+
+#: includes/wpwc_metaboxes.php:1099
+msgid "Please import the themes you like to offer"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Website Creator"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Install websites with a simple email form. WPForm, Ninja forms, gravity "
+"forms, formidable, caldera forms or contact form 7 are supported."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wp-website-creator.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "<a href=\"https://www.wp-website-creator.com\">WP website creator</a>"
+msgstr ""
